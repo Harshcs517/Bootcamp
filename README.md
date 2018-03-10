@@ -20,6 +20,18 @@ Cognitive Services - https://azure.microsoft.com/en-us/services/cognitive-servic
 
 Bot Framework - https://dev.botframework.com/ 
 
+PROSE reading content
+
+Documentation
+https://microsoft.github.io/prose/
+Code
+https://github.com/gustavoasoares/prose-tutorial/wiki/Prose-tutorial
+https://github.com/jimishbhayani/mrc-with-prose
+Word Add In
+https://github.com/nextLane/PROSEWordPlugin
+Demo App
+https://github.com/gustavoasoares/prose-tutorial/tree/master/ProseTutorialApp
+
 
 
 # Microsoft code.fun.do 
